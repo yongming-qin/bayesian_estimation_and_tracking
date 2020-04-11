@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/yq/Data/51_study/robotic_autonomy_files/hw7_ros_node/course_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/yq/Data/51_study/robotic_autonomy_files/hw7_ros_node/course_ws/src/deterministic_models/include/**",
+                "/home/yq/Data/51_study/robotic_autonomy_files/hw7_ros_node/course_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+                "/home/yq/Data/51_study/robotic_autonomy_files/hw7_ros_node/course_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+                "/home/yq/Data/51_study/robotic_autonomy_files/hw7_ros_node/course_ws/src/turtlebot3/turtlebot3_slam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
