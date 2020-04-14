@@ -13,3 +13,7 @@ roslaunch turtlebot_gazebo human_tracking.launch```
 ## human movement
 `rosrun deterministic_models human_movement`
 TODO: change the name
+
+rosrun image_analysis color_detection _topic_image:=/camera/color/image_raw
+
+rosrun pc_analysis balloon_position _topic_pointcloud:=/camera/depth/points
