@@ -32,13 +32,14 @@
     </physics>
 
     <!-- Load world -->
-    <include>
+    <!-- <include>
       <uri>model://human_tracking_world</uri>
-    </include>
+    </include> -->
 
     <!-- Load human -->
     <include>
       <uri>model://human_column</uri>
+      <pose>2 0 0 0 0 0</pose>
     </include>
 
     <scene>
